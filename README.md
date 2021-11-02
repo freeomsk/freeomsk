@@ -25,13 +25,14 @@ My name is Vladimir Mikhailov and I'm a software developer. I'm from Russia, liv
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tomcat-informational?style=flat&logo=ApacheTomcat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PhpMyAdmin-informational?style=flat&logo=PhpMyAdmin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Webmin-informational?style=flat&logo=Webmin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=Wireshark&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/CMS-Joomla-informational?style=flat&logo=Joomla&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=2bbc8a)
