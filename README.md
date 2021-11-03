@@ -45,4 +45,4 @@ My name is Vladimir Mikhailov and I'm a software developer. I'm from Russia, liv
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=freeomsk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2E8B57&bg_color=1d1f21" alt="Vladimir's GitHub Stats" />
 </a>
 <br><br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=SoberGrim&label=Profile%20views&color=2E8B57&style=flat" alt="SoberGrim"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=freeomsk&label=Profile%20views&color=2E8B57&style=flat" alt="freeomsk"/></p>
