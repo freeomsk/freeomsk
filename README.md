@@ -4,7 +4,7 @@ My name is Vladimir Mikhailov and I'm a software developer. I'm from Russia, liv
 
 ## 🖥️ Operation systems
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=social&logo=linux&logoColor=white&color=42C1BA)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=42C1BA)
