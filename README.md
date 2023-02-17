@@ -14,6 +14,7 @@ My name is Vladimir Mikhailov and I'm a software developer. I'm from Russia, liv
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/Code-SpringSecurity-informational?style=flat&logo=Spring-Security&logoColor=white&color=42C1BA)
+![](https://img.shields.io/badge/Code-SpringCloud-informational?style=flat&logo=Spring-Cloud&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=42C1BA)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=42C1BA)
